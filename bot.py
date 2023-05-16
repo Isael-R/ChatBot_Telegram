@@ -1,6 +1,6 @@
 import telebot
 
-CHAVE_API = '6022279982:AAE-qAxEXyRULwMNkkY-ESoZxx3RdJosgOU'
+CHAVE_API = ''
 bot = telebot.TeleBot(CHAVE_API)
 
 def verificar(messagem):
